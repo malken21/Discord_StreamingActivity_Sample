@@ -1,0 +1,2 @@
+# Discord_StreamingActivity_Sample
+DiscordBotに紫色の配信中のステータスを表示させるサンプル
